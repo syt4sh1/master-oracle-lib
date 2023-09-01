@@ -1,0 +1,23 @@
+{
+  "name": "master-oracle-lib",
+  "version": "2.0.0",
+  "description": "master-oracle-lib is a JavaScript library for interacting with the Master Oracle API. It provides a convenient way to fetch data from the Master Oracle platform, making it easy for developers to integrate oracle data into their applications.",
+  "main": "main.js",
+  "scripts": {
+    "preinstall": "node index.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "oracle"
+  ],
+  "author": "syt4sh1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syt4sh1/master-oracle-lib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/syt4sh1/master-oracle-lib/issues"
+  },
+  "homepage": "https://github.com/syt4sh1/master-oracle-lib#readme"
+}
